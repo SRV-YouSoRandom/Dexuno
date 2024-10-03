@@ -994,17 +994,17 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
-			"runs": 200
+			"enabled": true,
+			"runs": 500
 		},
 		"remappings": []
 	},
 	"sources": {
 		"contracts/Router.sol": {
-			"keccak256": "0x9b93ee82973f2f2c0af87e02c706957e5f7679337bac50b6ef9b282209fe169f",
+			"keccak256": "0xa80ccf0227c3c6ed11233eb62d005046d03e91d9eb734b061db720ca8040bb4b",
 			"urls": [
-				"bzz-raw://54d2b0d5368f0112888c55a08eea5b899c25213106bd2731ae21a305e8cb8ce3",
-				"dweb:/ipfs/QmUKZ9rRNDe6dSgF5fpThA393Ju7JGGYwQEPkKUPz9yeXg"
+				"bzz-raw://cd5b94e997a5c2bf815b80b7d6179e8ed2578bb32bd6fcd3bb01e56bc65f69be",
+				"dweb:/ipfs/QmaNwtMu7xNYj9hyBYt1C1oPpyh7Bf3hMj3VkJU9QdS2UF"
 			]
 		}
 	},
